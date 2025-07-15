@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Reasoning Machine
+title: Knowing Machine
 ---
-# Reasoning Machine
+# Knowing Machine
 
 <br>
 Go directly to the [Dialogue Page]({{ 'machine' | relative_url }}) its [Thoughts Page]({{ 'thoughts' | relative_url }}) or change the settings.
