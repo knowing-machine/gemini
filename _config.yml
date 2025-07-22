@@ -24,11 +24,11 @@ app:
 
 lm:
   model: gemini-2.5-pro
-  maxOutputTokens: 10240
+  maxOutputTokens: 65536
   temperature: 1.0
   topP: 0.9
   topK: 50
-  thinkingBudget: 24576
+  thinkingBudget: 32768
   includeThoughts: true
 
 
