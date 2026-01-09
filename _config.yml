@@ -6,16 +6,16 @@ relative_links:
 include:
   - README.md
   - LICENSE.md
-url: https://thingking-machine.github.io
+url: https://knowing-machine.github.io
 baseurl: /gemini
 
-title: Thingking Machine
+title: Knowing Machine
 description: This is a machine that reasons.
 
 machine:
-  name: Thingking-Machine
-  verb: Thingking
-  instructions_file: thingking_gemini.md
+  name: Knowing-Machine
+  verb: Knowing
+  instructions_file: knowing.md
   token: gemini
   server: https://localhost:443
   apiUrl: https://generativelanguage.googleapis.com/v1beta/models/
@@ -35,8 +35,8 @@ lm:
 
 
 github_settings:
-  owner: thingking-machine
-  repo: thingking_machine
+  owner: knowing-machine
+  repo: knowing_machine
   file_name: machina.yaml
   branch: main
   token_file: github.txt
